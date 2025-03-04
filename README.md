@@ -1,4 +1,4 @@
-# Netra - Telegram IP Info Bot
+# NETRA
 
 Netra is a Telegram bot that fetches detailed information about any IP address. It provides access to information about an IP address, including location, ISP, organization, and more.
 
@@ -24,5 +24,6 @@ Netra is a Telegram bot that fetches detailed information about any IP address. 
 
 ## Setup and Deployment
 
-### 1. Create s telegram bot
+### 1. Create a telegram bot
 
+- open botfather on telegram and create a telegram bot. give it any name of your choice and get your `bot token`
