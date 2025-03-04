@@ -1,0 +1,31 @@
+{
+  "name": "telegram-ip-info-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that fetches detailed information about an IP address.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ipinfo",
+    "ip",
+    "geolocation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
