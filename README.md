@@ -26,6 +26,8 @@ Netra is a Telegram bot that fetches detailed information about any IP address. 
 
 #### 1. Create a telegram bot
 
+- fork this repository and star it
+
 - open botfather on telegram and create a telegram bot. give it any name of your choice and get your `bot token`
 
 #### Step 2:
